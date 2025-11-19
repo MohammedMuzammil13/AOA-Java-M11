@@ -19,7 +19,7 @@ Unlike traditional matrix multiplication which takes O(n3)O(n^3)O(n3) time, Stra
 ## Program:
 ```
 /*
-Program to implement Reverse a String
+Program to implement Strassen's algorithm
 Developed by: Mohammed Muzammil A
 Register Number:  212222040103
 */
