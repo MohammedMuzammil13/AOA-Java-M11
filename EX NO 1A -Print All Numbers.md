@@ -5,19 +5,22 @@
 To Write a Java program that takes an integer input N from the user and prints all the numbers from 1 to N, separated by spaces, on a single line..
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+1. Start the program and read the value of N from the user.
+2. Check whether N is greater than 0.
+3. If N ≤ 0, display an error message indicating invalid input.
+4. If N > 0, initialize a loop variable i = 1.
+5.Repeat printing i and increment it by 1 until i becomes greater than N.
 
 ## Program:
 
 ```
 
-Program to print numbers from 1 to N
-Developed by: Mohammed Muzammil A 
-Register Number:  212222040103
+/*
+ Program: Print numbers from 1 to N
+ Developed by: Mohammed Muzammil A
+ Register Number: 212222040103
+*/
+
 
 
 import java.util.Scanner;
