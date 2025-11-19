@@ -12,13 +12,13 @@ To Write a Java program that takes an integer input N from the user and prints a
 5.   
 
 ## Program:
-```
-/*
+
+*/
 Program to print numbers from 1 to N
 Developed by: Mohammed Muzammil A 
 Register Number:  212222040103
 */
-
+```
 import java.util.Scanner;
 
 public class Print {
